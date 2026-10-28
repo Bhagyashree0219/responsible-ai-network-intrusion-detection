@@ -1,0 +1,11 @@
+duration,src_bytes,dst_bytes,packet_count,anomaly_flag
+10,500,1200,15,normal
+12,520,1180,16,normal
+9,480,1100,14,normal
+11,510,1250,15,normal
+10,495,1190,15,normal
+8,450,1050,13,potential_anomaly
+15,600,1400,20,potential_anomaly
+11,505,1210,15,normal
+9,490,1150,14,normal
+300,95000,1200,900,potential_anomaly
